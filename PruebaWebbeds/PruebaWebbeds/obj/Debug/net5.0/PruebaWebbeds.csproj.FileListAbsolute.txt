@@ -11,7 +11,6 @@ C:\Users\Irene\Desktop\Prueba-webbeds\prueba-webbeds\PruebaWebbeds\PruebaWebbeds
 C:\Users\Irene\Desktop\Prueba-webbeds\prueba-webbeds\PruebaWebbeds\PruebaWebbeds\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Irene\Desktop\Prueba-webbeds\prueba-webbeds\PruebaWebbeds\PruebaWebbeds\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Irene\Desktop\Prueba-webbeds\prueba-webbeds\PruebaWebbeds\PruebaWebbeds\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Irene\Desktop\Prueba-webbeds\prueba-webbeds\PruebaWebbeds\PruebaWebbeds\obj\Debug\net5.0\PruebaWebbeds.csproj.AssemblyReference.cache
 C:\Users\Irene\Desktop\Prueba-webbeds\prueba-webbeds\PruebaWebbeds\PruebaWebbeds\obj\Debug\net5.0\PruebaWebbeds.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Irene\Desktop\Prueba-webbeds\prueba-webbeds\PruebaWebbeds\PruebaWebbeds\obj\Debug\net5.0\PruebaWebbeds.AssemblyInfoInputs.cache
 C:\Users\Irene\Desktop\Prueba-webbeds\prueba-webbeds\PruebaWebbeds\PruebaWebbeds\obj\Debug\net5.0\PruebaWebbeds.AssemblyInfo.cs

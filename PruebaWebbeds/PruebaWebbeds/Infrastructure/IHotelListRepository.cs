@@ -8,6 +8,6 @@ namespace PruebaWebbeds.Infrastructure
 {
     public interface IHotelListRepository
     {
-        Task<List<Offer>> getAvailability();
+        Task<List<Offer>> getAvailability(int nights, int id, string code);
     }
 }

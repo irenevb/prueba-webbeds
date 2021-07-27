@@ -12,11 +12,11 @@ namespace PruebaWebbeds.Infrastructure
 {
     public class HotelListRepository: IHotelListRepository
     {
-        public static string URL = "https://webbedsdevtest.azurewebsites.net/api/findBargain?destinationId=1419&nights=5&code=aWH1EX7ladA8C/oWJX5nVLoEa4XKz2a64yaWVvzioNYcEo8Le8caJw==";
+        public static string URL = "https://webbedsdevtest.azurewebsites.net/api/findBargain?";
 
-        public async Task<List<Offer>> getAvailability()
+        public async Task<List<Offer>> getAvailability(int nights, int id, string code)
         {
-
+            URL += "destinationId="+id+"&nights="+nights+"&code="+code;
             //pide la disponibilidad a la api
             List<Offer> hotelAvailability = new List<Offer>();
             try
